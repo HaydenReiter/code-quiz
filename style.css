@@ -1,0 +1,21 @@
+body {
+    background-color: #f9a01b;
+    color: rgb(46, 46, 46);
+}
+
+.card {
+    margin: 35px 100px;
+} 
+
+.card-header {
+    text-align: center;
+    background-color: #002b5c;
+    font-size: 25px;
+    font-weight: bold;
+    color: whitesmoke;
+}
+
+.card-body {
+    background-color: #00471b;
+    color: whitesmoke;
+}
